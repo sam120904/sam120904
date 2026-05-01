@@ -30,11 +30,7 @@
 
 ---
 
-### 📊 GitHub Stats
-![Samarth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sam120904&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sam120904&layout=compact&theme=radical)
 
----
 
 ### 🤝 Connect With Me
 
