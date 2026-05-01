@@ -14,9 +14,9 @@
 | :--- | :--- |
 | **Languages** | JavaScript, TypeScript, Python |
 | **Frontend** | React, Vite, Tailwind CSS |
-| **Backend** | Node.js, Express |
+| **Backend** | Node.js, Express, Django |
 | **Database** | MongoDB |
-| **Tools** | Git, Docker, AWS, IBM Cloud, OpenRouter API |
+| **Tools** | Git, AWS, OpenRouter API |
 
 ---
 
