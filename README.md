@@ -10,13 +10,13 @@
 
 ### 🛠 Tech Stack
 
-| Category | Technologies |
-| :--- | :--- |
+| Category      | Technologies                   |
+| :------------ | :----------------------------- |
 | **Languages** | JavaScript, TypeScript, Python |
-| **Frontend** | React, Vite, Tailwind CSS |
-| **Backend** | Node.js, Express, Django |
-| **Database** | MongoDB |
-| **Tools** | Git, AWS, OpenRouter API |
+| **Frontend**  | React, Vite, Tailwind CSS      |
+| **Backend**   | Node.js, Express, Django       |
+| **Database**  | MongoDB, Firebase              |
+| **Tools**     | Git, AWS, OpenRouter API       |
 
 ---
 
@@ -30,7 +30,16 @@
 
 ---
 
+### 🐍 Contribution Snake
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sam120904/snake-animation/blob/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://github.com/sam120904/snake-animation/blob/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
 
 ### 🤝 Connect With Me
 
@@ -42,5 +51,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sam120904&theme=radical" alt="GitHub Streak" />
 </p>
