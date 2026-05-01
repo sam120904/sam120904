@@ -6,22 +6,26 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+# THIS IS THE KEY FIX FOR ERROR 128:
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      # Updated to v4 to fix the Node.js warning
+      - uses: actions/checkout@v4
       
       - uses: Platane/snk@v3
         with:
-          # github user name to read the contribution graph from
           github_user_name: ${{ github.repository_owner }}
-          # these next 2 lines generate the files on a branch called "output"
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      # Updated to v4 to fix the Node.js warning
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
