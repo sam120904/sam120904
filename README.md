@@ -31,9 +31,8 @@
 ---
 
 ### 📊 GitHub Stats
-
-![Samarth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Samarth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sam120904&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sam120904&layout=compact&theme=radical)
 
 ---
 
